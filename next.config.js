@@ -5,7 +5,6 @@ const nextConfig = {
     unoptimized: true,
     domains: ['images.unsplash.com'],
   },
-  basePath: '/portfolio_app',
 }
 
 module.exports = nextConfig 
